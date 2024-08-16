@@ -1,0 +1,114 @@
+[
+    {
+        "id":1,
+        "name":"Story Book",
+        "title":"Akbar and Birbal Stories",
+        "Price":"Rs.0",
+        "image":"Banner1.jpg",
+        "category":"free"
+    },
+    {
+        "id":2,
+        "name":"Comedy Book",
+        "title":"Akbar and Birbal Fun Stories",
+        "Price":"Rs.0",
+        "image":"Banner.jpg",
+        "category":"free"
+    },
+    {
+        "id":3,
+        "name":"Horror Book",
+        "title":"The Dead Ghost Stories",
+        "Price":"Rs.0",
+        "image":"Banner2.jpg",
+        "category":"free"
+    },
+    {
+        "id":4,
+        "name":" Ancient Book",
+        "title":"Our Ancestor 'The Great Heroes' Stories",
+        "Price":"Rs.900",
+        "image":"Banner1.jpg",
+        "category":"not-free"
+    },
+    {
+        "id":5,
+        "name":"Sports Book",
+        "title":"About All sports",
+        "Price":"Rs.200",
+        "image":"Banner1.jpg",
+        "category":"not-free"
+    },
+    {
+        "id":6,
+        "name":"Story Book",
+        "title":"Akbar and Birbal Stories",
+        "Price":"Rs.350",
+        "image":"Banner1.jpg",
+        "category":"not-free"
+    },
+    {
+        "id":7,
+        "name":"Story Book",
+        "title":"Akbar and Birbal Stories",
+        "Price":"Rs.150",
+        "image":"Banner1.jpg",
+        "category":"not-free"
+    },
+    {
+        "id":8,
+        "name":"Story Book",
+        "title":"Akbar and Birbal Stories",
+        "Price":"Rs.100",
+        "image":"Banner1.jpg",
+        "category":"not-free"
+    },
+    {
+        "id":9,
+        "name":"Story Book",
+        "title":"Akbar and Birbal Stories",
+        "Price":"Rs.800",
+        "image":"Banner1.jpg",
+        "category":"not-free"
+    },
+    {
+        "id":10,
+        "name":"Story Book",
+        "title":"Akbar and Birbal Stories",
+        "Price":"Rs.600",
+        "image":"Banner1.jpg",
+        "category":"not-free"
+    },
+    {
+        "id":11,
+        "name":"Motivational Book",
+        "title":"Akbar and Birbal Stories",
+        "Price":"Rs.500",
+        "image":"Banner1.jpg",
+        "category":"not-free"
+    },
+    {
+        "id":12,
+        "name":"Story Book",
+        "title":"Akbar and Birbal Stories",
+        "Price":"Rs.200",
+        "image":"Banner1.jpg",
+        "category":"not-free"
+    },
+    {
+        "id":13,
+        "name":"Story Book",
+        "title":"Akbar and Birbal Stories",
+        "Price":"Rs.600",
+        "image":"Banner1.jpg",
+        "category":"not-free"
+    },
+    {
+        "id":14,
+        "name":"History Book",
+        "title":"Ancient Stories",
+        "Price":"Rs.600",
+        "image":"Banner4.jpg",
+        "category":"not-free"
+    }
+]
